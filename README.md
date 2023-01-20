@@ -1,4 +1,3 @@
-# Helping-Hands
 #  **HELPING-HAND**
 <br>
 PROJECT IS DEPLOYED ON HEROKU_APP =>
