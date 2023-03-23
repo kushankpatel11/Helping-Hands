@@ -1,9 +1,5 @@
 #  **HELPING-HAND**
-<br>
-PROJECT IS DEPLOYED ON HEROKU_APP =>
-https://helping-hands-new.herokuapp.com/
 
-<br>
 <br>
 
 FULL TUTORIAL OF OUR WEBAPP =>
